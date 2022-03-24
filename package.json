@@ -1,0 +1,23 @@
+{
+  "name": "webpack_with_react",
+  "version": "1.0.0",
+  "description": "This repository is to practice using Webpack with React for future projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebansant/webpack_with_react.git"
+  },
+  "keywords": [],
+  "author": "Esteban Santiago <estebansant30@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estebansant/webpack_with_react/issues"
+  },
+  "homepage": "https://github.com/estebansant/webpack_with_react#readme",
+  "dependencies": {
+    "react-dom": "^17.0.2"
+  }
+}
